@@ -1,0 +1,16 @@
+{
+    "description": "Wildcard",
+
+    "domain": "is-cool.dev",
+    "subdomain": "*.fileagent1",
+
+    "owner": {
+        "repo": "https://github.com/fileagent/1",
+        "email": "okthislife222@gmail.com"
+    },
+
+    "record": {
+        "A": ["95.165.13.215"]
+    },
+
+    "proxied": false
